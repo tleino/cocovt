@@ -1,0 +1,9 @@
+cocovt - Virtual Terminal for Command Composition
+=================================================
+
+Use this with https://github.com/tleino/cocowm for running Unix
+commands like 'ls' in their own editable, scrollable,
+auto-growing mini-windows.
+
+At the moment this repository is a placeholder for cocovt to be
+uploaded here later.
